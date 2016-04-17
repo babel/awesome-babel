@@ -8,10 +8,15 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ## Table of Contents
 
+- [Parsers](#parsers)
 - [Plugins](#plugins)
  - [Frameworks and Libraries](#frameworks-and-libraries)
  - [Testing](#testing)
 - [Presets](#presets)
+
+## Parsers
+
+ - [babel-eslint](https://github.com/babel/babel-eslint) - ESLint using Babel as the parser.
 
 ## Plugins
 
