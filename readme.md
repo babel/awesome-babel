@@ -10,6 +10,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 - [Plugins](#plugins)
  - [Frameworks and Libraries](#frameworks-and-libraries)
+ - [Testing](#testing)
 - [Presets](#presets)
 
 ## Plugins
@@ -18,6 +19,11 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
  - [React Optimize](https://github.com/thejameskyle/babel-react-optimize) - A Babel preset and plugins for optimizing React code.
  - [React Transform](https://github.com/gaearon/babel-plugin-react-transform) - Babel plugin to instrument React components with custom transforms
+
+### Testing
+
+ - [espower](https://github.com/power-assert-js/babel-plugin-espower) - Babel plugin for power-assert
+ - [rewire](https://github.com/speedskater/babel-plugin-rewire) - A babel plugin adding the ability to rewire module dependencies. This enables to mock modules for testing purposes.
 
 ## Presets
 
