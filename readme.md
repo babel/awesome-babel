@@ -24,6 +24,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
  - [React Optimize](https://github.com/thejameskyle/babel-react-optimize) - A Babel preset and plugins for optimizing React code.
  - [React Transform](https://github.com/gaearon/babel-plugin-react-transform) - Babel plugin to instrument React components with custom transforms
+ - [c-3po](https://c-3po.js.org) - javascript localization tool based on es6 template literals which is implemented as a babel plugin.
 
 ### Testing
 
