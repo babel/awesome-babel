@@ -33,7 +33,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ## Presets
 
- - [es2015](https://www.npmjs.com/package/babel-preset-es2015) - Babel preset for all es2015 plugins.
+ - [env](https://github.com/babel/babel-preset-env)
  - [Node4](https://github.com/jbach/babel-preset-es2015-node4) - Babel preset to make node@4 ES2015 compatible.
  - [Node5](https://github.com/leebenson/babel-preset-node5) - Babel preset for Node 5.x (ES6 / ES2015)
  - [React](https://www.npmjs.com/package/babel-preset-react) - Babel preset for all React plugins.
