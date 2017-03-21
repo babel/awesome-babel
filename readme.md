@@ -25,6 +25,13 @@ If you want to contribute, please read the [contribution guidelines](contributin
  - [React Optimize](https://github.com/thejameskyle/babel-react-optimize) - A Babel preset and plugins for optimizing React code.
  - [React Transform](https://github.com/gaearon/babel-plugin-react-transform) - Babel plugin to instrument React components with custom transforms
  - [c-3po](https://c-3po.js.org) - javascript localization tool based on es6 template literals which is implemented as a babel plugin.
+ - [module-resolver](https://www.npmjs.com/package/babel-plugin-module-resolver) - Custom module resolver
+ - [lodash](https://www.npmjs.com/package/babel-plugin-lodash) - Cherry-picks Lodash modules so you don’t have to.
+ - [transform-react-remove-prop-types](https://www.npmjs.com/package/babel-plugin-transform-react-remove-prop-types) - Remove unnecessary React propTypes from the production build.
+ - [react-require](https://www.npmjs.com/package/babel-plugin-react-require) - adds React import declaration if file contains JSX tags.
+ - [emojification](https://www.npmjs.com/package/babel-plugin-emojification) - Turn all binding identifiers to unicode escaped emoji :smirk_cat:
+ - [idx](https://github.com/facebookincubator/idx) - library + babel plugin for a existential function
+ - [react-intl](https://www.npmjs.com/package/babel-plugin-react-intl) - Extracts string messages for translation from modules that use [React Intl](https://github.com/yahoo/react-intl).
 
 ### Testing
 
@@ -33,6 +40,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ## Presets
 
+ - [env](https://www.npmjs.com/package/babel-preset-env) - **The recommended preset** which includes transforms based on the specified environment
  - [es2015](https://www.npmjs.com/package/babel-preset-es2015) - Babel preset for all es2015 plugins.
  - [Node4](https://github.com/jbach/babel-preset-es2015-node4) - Babel preset to make node@4 ES2015 compatible.
  - [Node5](https://github.com/leebenson/babel-preset-node5) - Babel preset for Node 5.x (ES6 / ES2015)
