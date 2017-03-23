@@ -32,6 +32,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
  - [emojification](https://www.npmjs.com/package/babel-plugin-emojification) - Turn all binding identifiers to unicode escaped emoji :smirk_cat:
  - [idx](https://github.com/facebookincubator/idx) - library + babel plugin for a existential function
  - [react-intl](https://www.npmjs.com/package/babel-plugin-react-intl) - Extracts string messages for translation from modules that use [React Intl](https://github.com/yahoo/react-intl).
+ - [meaningful-logs](https://github.com/furstenheim/babel-plugin-meaningful-logs) - Prepend your logs with what you are actually logging.
 
 ### Testing
 
