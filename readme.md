@@ -40,9 +40,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ## Presets
 
- - [env](https://www.npmjs.com/package/babel-preset-env) - **The recommended preset** which includes transforms based on the specified environment
- - [Node4](https://github.com/jbach/babel-preset-es2015-node4) - Babel preset to make node@4 ES2015 compatible.
- - [Node5](https://github.com/leebenson/babel-preset-node5) - Babel preset for Node 5.x (ES6 / ES2015)
+ - [env](https://www.npmjs.com/package/babel-preset-env) - **The recommended preset** which includes transforms based on the specified environment (browsers, node, electron, etc)
  - [React](https://www.npmjs.com/package/babel-preset-react) - Babel preset for all React plugins.
  - [React Optimize](https://github.com/thejameskyle/babel-react-optimize) - A Babel preset and plugins for optimizing React code.
 
