@@ -44,6 +44,10 @@ If you want to contribute, please read the [contribution guidelines](contributin
  - [React](https://www.npmjs.com/package/babel-preset-react) - Babel preset for all React plugins.
  - [React Optimize](https://github.com/thejameskyle/babel-react-optimize) - A Babel preset and plugins for optimizing React code.
 
+## Tooling
+
+ - [babel-watch](https://github.com/kmagiera/babel-watch) - Reloads a node app on file changes
+
 ## License
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
