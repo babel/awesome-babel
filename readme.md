@@ -5,6 +5,8 @@
 > A list of awesome Babel plugins, presets, etc. Many of these are from the community, but some are lesser-known
 > plugins in the Babel organization that may be useful to you.
 
+> As always, use caution when trying out Babel plugins, especially those marked as 🔧 *experimental* or 🔧🚧 *under construction*.
+
 If you want to contribute, please read the [contribution guidelines](contributing.md).
 
 ## Parsers
@@ -56,6 +58,28 @@ If you want to contribute, please read the [contribution guidelines](contributin
  - [istanbul](https://github.com/istanbuljs/babel-plugin-istanbul) - Instruments your code with Istanbul coverage.
  - [rewire](https://github.com/speedskater/babel-plugin-rewire) - Adds the ability to rewire module dependencies. This enables to mock modules for testing purposes.
 
+### Optimization
+
+ - [groundskeeper-willie](https://github.com/betaorbust/babel-plugin-groundskeeper-willie) - Removes debugger and console calls.
+ - [loop-optimizer](https://github.com/vihanb/babel-plugin-loop-optimizer) - Transforms `.forEach` and `.map` calls to for loops. 🔧
+ - [closure-elimination](https://github.com/codemix/babel-plugin-closure-elimination) - Transforms closures into separate functions.
+
+### Syntax Sugar
+
+ - [implicit-return](https://github.com/miraks/babel-plugin-implicit-return) - Transforms last statement in a function block to a return statement.
+ - [transform-iota](https://github.com/passcod/babel-plugin-transform-iota) - Golang-style `iota()`. 🔧
+ - [offside-js](https://github.com/shanewholloway/babel-plugin-offside-js) - Coffeescript-like indented block syntax hack. 🔧🚧
+ - [trace](https://github.com/codemix/babel-plugin-trace) - Syntax shortcuts for console logging.
+ - [meaningful-logs](https://github.com/furstenheim/babel-plugin-meaningful-logs) - Adds file name and line number of caller to `console.log()` calls.
+
+### Alternative Programming Paradigms
+
+ - [macros](https://github.com/codemix/babel-plugin-macros) - Hygienic, non-syntactic macros.
+ - [contracts](https://github.com/codemix/babel-plugin-contracts) - Design by Contract; Includes preconditions, postconditions, and invariant conditions.
+ - [transform-scala-lambda](https://github.com/xtuc/babel-plugin-transform-scala-lambda) - Enable Scala-style lambdas (using `_`). 🔧
+ - [partial-application](https://github.com/citycide/babel-plugin-partial-application) - Scala/Kotlin-esque partial application syntax for JavaScript (using `_`). 🔧
+ - [overload](https://github.com/foxbenjaminfox/babel-plugin-overload) - Allow overloading default operators like `+` or `===` for specific classes. 🔧🚧
+
 ## Presets
 
  - [env](https://github.com/babel/babel-preset-env) - **The recommended preset** which includes transforms based on the specified environment (browsers, node, electron, etc).
@@ -64,28 +88,8 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ## Tooling
 
- - [babel-watch](https://github.com/kmagiera/babel-watch) - Reloads a node app on file changes
+ - [babel-watch](https://github.com/kmagiera/babel-watch) - Reloads a node app on file changes.
 
-## Optimization
-
- - [groundskeeper-willie](https://github.com/betaorbust/babel-plugin-groundskeeper-willie) - Removes debugger and console calls
- - [loop-optimizer](https://github.com/vihanb/babel-plugin-loop-optimizer) - Transforms `.forEach` and `.map` calls to for loops
- - [closure-elimination](https://github.com/codemix/babel-plugin-closure-elimination) - Transforms closures into separate functions
-
-## Syntax Sugar
-
- - [implicit-return](https://github.com/miraks/babel-plugin-implicit-return) - Transforms last statement in a function block to a return statement
- - [transform-iota](https://github.com/passcod/babel-plugin-transform-iota) - Golang-style `iota()`
- - [offside-js](https://github.com/shanewholloway/babel-plugin-offside-js) - Coffeescript-like indented block syntax hack (work in progress)
- - [trace](https://github.com/codemix/babel-plugin-trace) - Syntax shortcuts for console logging
- - [meaningful-logs](https://github.com/furstenheim/babel-plugin-meaningful-logs) - Adds file name and line number of caller to `console.log()` calls
-
-## Alternative Programming Paradigms
-
- - [macros](https://github.com/codemix/babel-plugin-macros) - Hygienic, non-syntactic macros
- - [contracts](https://github.com/codemix/babel-plugin-contracts) - Design by Contract; Includes preconditions, postconditions, and invariant conditions
- - [transform-scala-lambda](https://github.com/xtuc/babel-plugin-transform-scala-lambda) - Enable Scala-style lambdas
- - [overload](https://github.com/foxbenjaminfox/babel-plugin-overload) - Allow overloading default operators like `+` or `===` for specific classes
 
 ## License
 
