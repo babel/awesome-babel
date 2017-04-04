@@ -1,6 +1,6 @@
 # Awesome Babel [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[<img src="https://babeljs.io/images/logo.svg" width="160" align="right" alt="babel">](http://babel.io)
+[<img src="https://babeljs.io/images/logo.svg" width="160" align="right" alt="babel">](http://babeljs.io)
 
 > A list of awesome Babel plugins, presets, etc. Many of these are from the community, but some are lesser-known
 > plugins in the Babel organization that may be useful to you.
