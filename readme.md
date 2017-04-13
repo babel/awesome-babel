@@ -27,6 +27,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 ### Module Resolution
 
  - [lodash](https://github.com/lodash/babel-plugin-lodash) - Cherry-picks Lodash modules so you don’t have to.
+ - [ramda](https://github.com/megawac/babel-plugin-ramda) - Cherry-picks Ramda modules so you don’t have to.
  - [module-resolver](https://github.com/tleunen/babel-plugin-module-resolver) - Custom module resolver.
  - [root-import](https://github.com/entwicklerstube/babel-plugin-root-import) - Import modules from the root with `require('~/foo')` syntax.
  - [webpack-alias](https://github.com/trayio/babel-plugin-webpack-alias) - Allows you to use webpack aliases and most of webpack resolve features in Babel.
