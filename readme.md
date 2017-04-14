@@ -52,6 +52,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
  - [flow-runtime](https://github.com/codemix/flow-runtime/tree/master/packages/babel-plugin-flow-runtime) - Turns Flow annotations into runtime checks. Part of [Flow-Runtime](https://codemix.github.io/flow-runtime).
  - [tcomb](https://github.com/gcanti/babel-plugin-tcomb) - Turns Flow annotations into typechecks with [tcomb](https://github.com/gcanti/tcomb).
  - [jsdoc-to-assert](https://github.com/azu/babel-plugin-jsdoc-to-assert) - Turns JSDoc into runtime checks.
+ - [runtyper](https://github.com/vitalets/babel-plugin-runtyper) - Detects type-mismatch operations in runtime without annotations.
 
 ### Testing
 
