@@ -42,7 +42,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
  - [transform-react-jsx-self](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-react-jsx-self) - Adds a `__self` property to JSX tags for debugging. Don't use in production. [More info](https://github.com/babel/babel/pull/3540)
  - [transform-react-constant-elements](https://www.npmjs.com/package/babel-plugin-transform-react-constant-elements) - Hoist elements that can be marked as constant to the highest scope for reuse.
  - [transform-react-inline-elements](https://www.npmjs.com/package/babel-plugin-transform-react-inline-elements) - Replaces `React.createElement()` with a helper that is more optimized for production.
-  - [react-hyperscript](https://github.com/roman01la/babel-plugin-react-hyperscript) - HyperScript syntax for React components without runtime overhead.
+ - [react-hyperscript](https://github.com/roman01la/babel-plugin-react-hyperscript) - HyperScript syntax for React components without runtime overhead.
 
 ### Internationalization
 
