@@ -23,6 +23,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
  - [feature-flags](https://github.com/ember-cli/babel-plugin-feature-flags) - Helper for managing application feature flags.
  - [idx](https://github.com/facebookincubator/idx) - library + babel plugin for a existential function.
  - [transform-builtin-extend](https://github.com/loganfsmyth/babel-plugin-transform-builtin-extend) - Enable extending builtin types like `Error` and `Array`, which require special treatment and require static analysis to detect.
+ - [partial-application](https://github.com/citycide/babel-plugin-partial-application) - Scala/Kotlin-esque partial application syntax for JavaScript (using `_`).
 
 ### Module Resolution
 
