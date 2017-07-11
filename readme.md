@@ -67,6 +67,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
  - [groundskeeper-willie](https://github.com/betaorbust/babel-plugin-groundskeeper-willie) - Removes debugger and console calls.
  - [loop-optimizer](https://github.com/vihanb/babel-plugin-loop-optimizer) - Transforms `.forEach` and `.map` calls to for loops. 🔧
  - [closure-elimination](https://github.com/codemix/babel-plugin-closure-elimination) - Transforms closures into separate functions.
+ - [preval](https://github.com/kentcdodds/babel-plugin-preval) - Pre-evaluate code at build-time
 
 ### Syntax Sugar
 
