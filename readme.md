@@ -83,6 +83,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
  - [transform-scala-lambda](https://github.com/xtuc/babel-plugin-transform-scala-lambda) - Enable Scala-style lambdas (using `_`). 🔧
  - [partial-application](https://github.com/citycide/babel-plugin-partial-application) - Scala/Kotlin-esque partial application syntax for JavaScript (using `_`). 🔧
  - [overload](https://github.com/foxbenjaminfox/babel-plugin-overload) - Allow overloading default operators like `+` or `===` for specific classes. 🔧🚧
+ - [babel-macros](https://github.com/kentcdodds/babel-macros) - Enables zero-config, importable babel plugins.
 
 ## Presets
 
