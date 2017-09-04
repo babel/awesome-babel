@@ -76,6 +76,8 @@ If you want to contribute, please read the [contribution guidelines](contributin
  - [offside-js](https://github.com/shanewholloway/babel-plugin-offside-js) - Coffeescript-like indented block syntax hack. 🔧🚧
  - [trace](https://github.com/codemix/babel-plugin-trace) - Syntax shortcuts for console logging.
  - [meaningful-logs](https://github.com/furstenheim/babel-plugin-meaningful-logs) - Adds file name and line number of caller to `console.log()` calls.
+ - [implicit-function](https://github.com/haskellcamargo/babel-plugin-implicit-function) - Implicit functions via `~` operator, transforming, for example, `~x` in `() => x`.
+ - [function-composition](https://github.com/haskellcamargo/babel-plugin-function-composition) - Function piping and composition via `&` operator, for example, `toUpper & console.log`.
 
 ### Alternative Programming Paradigms
 
