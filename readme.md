@@ -94,6 +94,11 @@ If you want to contribute, please read the [contribution guidelines](contributin
  - [React](https://www.npmjs.com/package/babel-preset-react) - Babel preset for all React plugins.
  - [React Optimize](https://github.com/thejameskyle/babel-react-optimize) - A Babel preset and plugins for optimizing React code.
 
+## Macros
+
+ - [emotion](https://github.com/emotion-js/emotion) - css-in-js library that uses Babel to optimize styles at compile time.
+ - [idx.macro](https://www.npmjs.com/package/idx.macro) - Utility function for traversing properties on objects and arrays.
+
 ## Tooling
 
  - [babel-watch](https://github.com/kmagiera/babel-watch) - Reloads a node app on file changes.
