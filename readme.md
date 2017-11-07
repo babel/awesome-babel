@@ -78,6 +78,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
  - [meaningful-logs](https://github.com/furstenheim/babel-plugin-meaningful-logs) - Adds file name and line number of caller to `console.log()` calls.
  - [implicit-function](https://github.com/haskellcamargo/babel-plugin-implicit-function) - Implicit functions via `~` operator, transforming, for example, `~x` in `() => x`.
  - [function-composition](https://github.com/haskellcamargo/babel-plugin-function-composition) - Function piping and composition via `&` operator, for example, `toUpper & console.log`.
+ - [auto-await](https://github.com/ziolko/babel-plugin-auto-await) - Automatically `await` every `Promise` in `async` functions.
 
 ### Alternative Programming Paradigms
 
