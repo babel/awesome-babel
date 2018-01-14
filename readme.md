@@ -100,7 +100,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 ## Tooling
 
  - [babel-watch](https://github.com/kmagiera/babel-watch) - Reloads a node app on file changes.
- - [babel-time-travel](https://github.com/boopathi/babel-time-travel) - Time travel through babel transformations one by one
+ - [babel-time-travel](https://github.com/boopathi/babel-time-travel) - Time travel through babel transformations one by one.
 
 
 ## License
