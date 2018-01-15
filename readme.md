@@ -90,6 +90,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
  - [partial-application](https://github.com/citycide/babel-plugin-partial-application) - Scala/Kotlin-esque partial application syntax for JavaScript (using `_`). 🔧
  - [overload](https://github.com/foxbenjaminfox/babel-plugin-overload) - Allow overloading default operators like `+` or `===` for specific classes. 🔧🚧
  - [babel-macros](https://github.com/kentcdodds/babel-macros) - Enables zero-config, importable babel plugins.
+ - [holes](https://github.com/rung-tools/babel-plugin-holes) - Holes (like Scala and Elixir) to help point-free programming, using operators as functions. 🔧
 
 ## Presets
 
