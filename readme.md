@@ -84,7 +84,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ### Alternative Programming Paradigms
 
- - [macros](https://github.com/codemix/babel-plugin-macros) - Hygienic, non-syntactic macros.
+ - [macros](https://github.com/codemix/babel-plugin-macros) - Hygienic, non-syntactic macros. 🔧
  - [contracts](https://github.com/codemix/babel-plugin-contracts) - Design by Contract; Includes preconditions, postconditions, and invariant conditions.
  - [transform-scala-lambda](https://github.com/xtuc/babel-plugin-transform-scala-lambda) - Enable Scala-style lambdas (using `_`). 🔧
  - [partial-application](https://github.com/citycide/babel-plugin-partial-application) - Scala/Kotlin-esque partial application syntax for JavaScript (using `_`). 🔧
