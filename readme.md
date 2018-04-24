@@ -70,6 +70,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
  - [closure-elimination](https://github.com/codemix/babel-plugin-closure-elimination) - Transforms closures into separate functions.
  - [preval](https://github.com/kentcdodds/babel-plugin-preval) - Pre-evaluate code at build-time.
  - [transform-named-imports](https://github.com/SectorLabs/babel-plugin-transform-named-imports) - Avoid including code that you don't need from modules you're importing.
+ - [faster.js](https://github.com/vzhou842/faster.js) - Transforms native `Array` methods into faster equivalents. 🔧
 
 ### Syntax Sugar
 
