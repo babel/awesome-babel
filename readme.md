@@ -51,6 +51,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
  - [c-3po](https://c-3po.js.org) - Localization tool based on es6 template literals.
  - [react-intl](https://github.com/yahoo/react-intl) - Extracts string messages for translation from modules that use [React Intl](https://github.com/yahoo/react-intl).
+ - [localize](https://github.com/amerani/babel-plugin-localize) - Modify static jsx text and string attributes with function call. 🔧
 
 ### Types
 
