@@ -47,6 +47,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
  - [react-hyperscript](https://github.com/roman01la/babel-plugin-react-hyperscript) - HyperScript syntax for React components without runtime overhead.
  - [react-import-extends](https://github.com/vijaysutrave/babel-plugin-react-import-extends) - Extends `Component` if a class renders a JSX element, also adds `import` statement if it detects a JSX component in the file.
  - [babel-plugin-transform-react-class-to-function](https://github.com/remcohaszing/babel-plugin-transform-react-class-to-function) - Transforms React class components into a function, if possible.
+ - [babel-plugin-hoist-facc](https://github.com/strayiker/babel-plugin-hoist-facc) - Transforms function as child components to hoist the children function to highest scope.
 
 ### Internationalization
 
