@@ -24,6 +24,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
  - [idx](https://github.com/facebookincubator/idx) - library + babel plugin for a existential function.
  - [transform-builtin-extend](https://github.com/loganfsmyth/babel-plugin-transform-builtin-extend) - Enable extending builtin types like `Error` and `Array`, which require special treatment and require static analysis to detect.
  - [console-source](https://github.com/peteringram0/babel-plugin-console-source) - Prepends the file name and line numbers for all console commands
+ - [version](https://github.com/hustcc/babel-plugin-version) - Babel plugin replace defined identifier `__VERSION__` to pkg.version.
 
 ### Module Resolution
 
