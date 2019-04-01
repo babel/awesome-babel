@@ -81,6 +81,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
  - [transform-named-imports](https://github.com/SectorLabs/babel-plugin-transform-named-imports) - Avoid including code that you don't need from modules you're importing.
  - [faster.js](https://github.com/vzhou842/faster.js) - Transforms native `Array` methods into faster equivalents. 🔧
  - [optimize-i18n](https://github.com/hustcc/babel-plugin-optimize-i18n) - Optimizing i18n bundle file by shorten the locale key.
+- [optimized-array-fns](https://github.com/rajatsharma/treehopper/tree/master/packages/babel-plugin-transform-array-fns) - Optimizes Map and Filter functions by transforming them to for loops.
 
 ### Syntax Sugar
 
