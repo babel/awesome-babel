@@ -71,6 +71,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
  - [espower](https://github.com/power-assert-js/babel-plugin-espower) - Annotates call sites for descriptive messages when using [power-assert](https://github.com/power-assert-js/power-assert).
  - [istanbul](https://github.com/istanbuljs/babel-plugin-istanbul) - Instruments your code with Istanbul coverage.
  - [rewire](https://github.com/speedskater/babel-plugin-rewire) - Adds the ability to rewire module dependencies. This enables to mock modules for testing purposes.
+ - [test-ids](https://github.com/alsiola/test-ids) - Create and extract test ids with no runtime cost.
 
 ### Optimization
 
