@@ -52,6 +52,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
  - [react-hiccup](https://github.com/callwait/babel-plugin-react-hiccup) - Hiccup syntax for React components.
  - [babel-plugin-framer-x](https://github.com/eschaefer/babel-plugin-framer-x) - Removes Framer X markup from your components. Lets you use Framer X components in a Storybook or real application.
  - [babel-plugin-react-directive](https://github.com/evolify/babel-plugin-react-directive) - Use directive in React, for example, you can use `r-if`、`r-for` in jsx just as `v-if`、`v-for` in Vue.
+ - [zacs](https://github.com/nozbe/zacs) - "styled components"-ish syntax without performance overhead
 
 ### Internationalization
 
