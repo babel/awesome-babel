@@ -83,6 +83,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
  - [faster.js](https://github.com/vzhou842/faster.js) - Transforms native `Array` methods into faster equivalents. 🔧
  - [optimize-i18n](https://github.com/hustcc/babel-plugin-optimize-i18n) - Optimizing i18n bundle file by shorten the locale key.
  - [cloudinary](https://github.com/trivago/babel-plugin-cloudinary) - Compile cloudinary URLs at build time.
+ - [object-to-json-parse](https://github.com/nd-02110114/babel-plugin-object-to-json-parse) - Converts from object literal to `JSON.parse`.
 
 ### Syntax Sugar
 
