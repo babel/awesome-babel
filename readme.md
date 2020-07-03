@@ -53,6 +53,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
  - [babel-plugin-framer-x](https://github.com/eschaefer/babel-plugin-framer-x) - Removes Framer X markup from your components. Lets you use Framer X components in a Storybook or real application.
  - [babel-plugin-react-directive](https://github.com/evolify/babel-plugin-react-directive) - Use directive in React, for example, you can use `r-if`、`r-for` in jsx just as `v-if`、`v-for` in Vue.
  - [zacs](https://github.com/nozbe/zacs) - "styled components"-ish syntax without performance overhead
+ - [babel-plugin-typescript-to-proptypes](https://github.com/milesj/babel-plugin-typescript-to-proptypes) - Generate React PropTypes from TypeScript interfaces or type aliases.
 
 ### Internationalization
 
