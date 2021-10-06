@@ -34,6 +34,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
  - [root-import](https://github.com/entwicklerstube/babel-plugin-root-import) - Import modules from the root with `require('~/foo')` syntax.
  - [webpack-alias](https://github.com/trayio/babel-plugin-webpack-alias) - Allows you to use webpack aliases and most of webpack resolve features in Babel.
  - [hash-resolve](https://github.com/miketamis/babel-plugin-hash-resolve) - Allows you to use `require('#/path')` instead of `require('../../path')`, the number of `../` needed is worked out by the plugin
+ - [rewrite-module-path](https://github.com/zheeeng/babel-plugin-rewrite-module-path) - Rewrite module resolving path.
 
 ### React
 
