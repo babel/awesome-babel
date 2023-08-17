@@ -26,6 +26,8 @@ If you want to contribute, please read the [contribution guidelines](contributin
  - [console-source](https://github.com/peteringram0/babel-plugin-console-source) - Prepends the file name and line numbers for all console commands
  - [version](https://github.com/hustcc/babel-plugin-version) - Babel plugin replace defined identifier `__VERSION__` to pkg.version.
  - [babel-plugin-debug-tools](https://www.npmjs.com/package/babel-plugin-debug-tools) Babeljs Debug Tools helps you insert debug code and easely remove it when deploy to production
+ - [transform-equal-chain](https://github.com/DDinenno/babel-plugin-transform-equal-chain) - Condenses multiple equality statements into a clean format, like so:  `typeof someValue === ("number" || "string" || "object")`
+   
 
 ### Module Resolution
 
