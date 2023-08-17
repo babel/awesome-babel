@@ -26,7 +26,6 @@ If you want to contribute, please read the [contribution guidelines](contributin
  - [console-source](https://github.com/peteringram0/babel-plugin-console-source) - Prepends the file name and line numbers for all console commands
  - [version](https://github.com/hustcc/babel-plugin-version) - Babel plugin replace defined identifier `__VERSION__` to pkg.version.
  - [babel-plugin-debug-tools](https://www.npmjs.com/package/babel-plugin-debug-tools) Babeljs Debug Tools helps you insert debug code and easely remove it when deploy to production
- - [transform-equal-chain](https://github.com/DDinenno/babel-plugin-transform-equal-chain) - Condenses multiple equality statements into a clean format, like so:  `typeof someValue === ("number" || "string" || "object")`
    
 
 ### Module Resolution
@@ -89,6 +88,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
  - [optimize-i18n](https://github.com/hustcc/babel-plugin-optimize-i18n) - Optimizing i18n bundle file by shorten the locale key.
  - [cloudinary](https://github.com/trivago/babel-plugin-cloudinary) - Compile cloudinary URLs at build time.
  - [object-to-json-parse](https://github.com/nd-02110114/babel-plugin-object-to-json-parse) - Converts from object literal to `JSON.parse`.
+ - [transform-equal-chain](https://github.com/DDinenno/babel-plugin-transform-equal-chain) - Condenses multiple equality statements into a clean format, like so:  `typeof someValue === ("number" || "string" || "object")`
 
 ### Syntax Sugar
 
