@@ -117,6 +117,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ## Tooling
 
+ - [Babel Config Generator](https://draftkit.co/dev-launch-pack/babel-config-generator.html) - Free browser tool that generates a ready-to-commit `babel.config.js` or `.babelrc.json` from presets, plugins, targets, and options (React, TypeScript, Vue, Node, env, transform-runtime, decorators).
  - [babel-watch](https://github.com/kmagiera/babel-watch) - Reloads a node app on file changes.
  - [babel-time-travel](https://github.com/boopathi/babel-time-travel) - Time travel through babel transformations one by one.
  - [react-ast](https://github.com/codejamninja/react-ast) - Render babel ASTs with react
